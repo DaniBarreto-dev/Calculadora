@@ -1,0 +1,232 @@
+body {
+    font-family: 'Archivo Black', sans-serif;
+  }
+  
+    .Fundo {
+        width: 556px; /* Largura do quadrado */
+        height: 643px; /* Altura do quadrado */
+        background-color: #3a3737; /* Cor de fundo (opcional) */
+        border-radius: 50px;
+    }
+
+    .Fundo {
+    
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+          
+          }
+
+    .zero {
+        width: 169px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .zero {
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 80%;
+        right: 51%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+    
+    .um {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .um{
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 68%;
+        left: 70%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+          
+    .dois {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .dois{
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 68%;
+        left: 43%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+         
+    .tres {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .tres{
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 68%;
+        left: 16%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+         
+    .quatro {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .quatro{
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 56%;
+        left: 70%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+          
+    .cinco {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .cinco{
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 56%;
+        left: 43%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+         
+    .seis {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .seis {
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 56%;
+        left: 16%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+    
+    .quatro {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .quatro{
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 56%;
+        left: 70%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+          
+    .cinco {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .cinco{
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 56%;
+        left: 43%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+         
+    .seis {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .seis {
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 56%;
+        left: 16%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+    
+    .sete {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .sete {
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 44%;
+        left: 70%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+
+    }
+    .oito {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .oito {
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 44%;
+        left: 43%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+    
+    .nove {
+        width: 145px; /* Largura do quadrado */
+        height: 60px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 40px;
+    }
+
+    .nove {
+        position: absolute; /* Posiciona o conteúdo de forma absoluta dentro da div */
+        top: 44%;
+        left: 16%;
+        transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
+        margin: 0; /* Remove margens padrão do texto */
+    }
+
+    .txt {
+        width: 490px ;
+        height: 60px ;
+      background-color: #a6a6a6;
+      border-radius: 30px;
+
+    }
+
+    .txt {
+        position: absolute;
+        top: 10%;
+        left: 5%;
+    }
+    
+    
+          
+    
