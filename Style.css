@@ -1,6 +1,12 @@
 body {
     font-family: 'Archivo Black', sans-serif;
   }
+    .Back {
+        width: 196vh;
+        height: 98vh;
+        background-color: black;
+
+    }
   
     .Fundo {
         width: 556px; /* Largura do quadrado */
@@ -23,6 +29,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .zero {
@@ -31,6 +38,9 @@ body {
         right: 51%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
+        
     }
     
     .um {
@@ -38,6 +48,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .um{
@@ -46,6 +57,8 @@ body {
         left: 70%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
     }
           
     .dois {
@@ -53,6 +66,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .dois{
@@ -61,6 +75,8 @@ body {
         left: 43%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
     }
          
     .tres {
@@ -68,6 +84,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .tres{
@@ -76,6 +93,8 @@ body {
         left: 16%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
     }
          
     .quatro {
@@ -83,6 +102,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .quatro{
@@ -91,6 +111,9 @@ body {
         left: 70%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
+
     }
           
     .cinco {
@@ -98,6 +121,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .cinco{
@@ -106,6 +130,9 @@ body {
         left: 43%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
+
     }
          
     .seis {
@@ -113,6 +140,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .seis {
@@ -121,6 +149,9 @@ body {
         left: 16%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
+
     }
     
     .quatro {
@@ -128,6 +159,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .quatro{
@@ -136,6 +168,9 @@ body {
         left: 70%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
+        
     }
           
     .cinco {
@@ -143,6 +178,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .cinco{
@@ -151,6 +187,9 @@ body {
         left: 43%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
+
     }
          
     .seis {
@@ -158,6 +197,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .seis {
@@ -166,6 +206,8 @@ body {
         left: 16%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        color: rgb(53, 51, 51);
+
     }
     
     .sete {
@@ -173,6 +215,8 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
+
     }
 
     .sete {
@@ -181,13 +225,16 @@ body {
         left: 70%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px;
 
     }
     .oito {
         width: 145px; /* Largura do quadrado */
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
-        border-radius: 40px;
+        border-radius: 40px;    
+        color: rgb(53, 51, 51);
     }
 
     .oito {
@@ -196,6 +243,9 @@ body {
         left: 43%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
+
     }
     
     .nove {
@@ -203,6 +253,7 @@ body {
         height: 60px; /* Altura do quadrado */
         background-color: #a6a6a6; /* Cor de fundo (opcional) */
         border-radius: 40px;
+        color: rgb(53, 51, 51);
     }
 
     .nove {
@@ -211,7 +262,13 @@ body {
         left: 16%;
         transform: translate(-50%, -50%); /* Centraliza vertical e horizontalmente */
         margin: 0; /* Remove margens padrão do texto */
+        font-family: 'Archivo Black', sans-serif; /* Define a fonte */
+        font-size: 32px
+
     }
+    
+   
+      
 
     .txt {
         width: 490px ;
@@ -227,6 +284,64 @@ body {
         left: 5%;
     }
     
+    .Parents {
+        width: 81px;
+        height: 60px;
+        background-color: #7898df;
+        border-radius: 20px;
+        color:aliceblue
+        
+
+    }
+
+    .Parents {
+        position: absolute;
+        top: 51%;
+        left: 84%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
+    }
+
+    .Porcent {
+        width: 81px;
+        height: 60px;
+        background-color: #7898df;
+        border-radius: 20px;
+        color:aliceblue
+    
+
+    }
+    .Porcent {
+        position: absolute;
+        top: 39.5%;
+        left: 84%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
+    }
+
+    
+    .Del {
+        width: 81px;
+        height: 60px;
+        background-color: red;
+        border-radius: 20px;
+        color:aliceblue
+    
+
+    }
+    .Del{
+        position: absolute;
+        top: 62.9%;
+        left: 84%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
+    }
+
+    .mais {
+        
+    }
+
+
     
           
     
