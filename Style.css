@@ -272,8 +272,8 @@ body {
 
     .txt {
         width: 490px ;
-        height: 60px ;
-      background-color: #a6a6a6;
+        height: 78px ;
+      background-color: #868585;
       border-radius: 30px;
 
     }
@@ -329,7 +329,7 @@ body {
     
 
     }
-    .Del{
+    .Del { 
         position: absolute;
         top: 62.9%;
         left: 84%;
@@ -338,10 +338,113 @@ body {
     }
 
     .mais {
-        
+        width: 175px ;
+        height: 61px ;
+        background-color: #7898df;
+        border-radius: 10px;
+        color: aliceblue;
+    }
+    
+    .mais {
+        position: absolute;
+        top: 75%;
+        left: 34.3%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
     }
 
-
+    .menos {
+        width: 175px ;
+        height: 61px ;
+        background-color: #7898df;
+        border-radius: 10px;
+        color: aliceblue;
+    }
     
-          
+    .menos {
+        position: absolute;
+        top: 75%;
+        left: 67%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
+    }
+
+    .vezes {
+        width: 175px ;
+        height: 61px ;
+        background-color: #7898df;
+        border-radius: 10px;
+        color: aliceblue;
+    }
+    
+    .vezes {
+        position: absolute;
+        top: 86.2%;
+        left: 3%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
+    }
+    
+    .dv {
+        width: 175px ;
+        height: 61px ;
+        background-color: #7898df;
+        border-radius: 10px;
+        color: aliceblue;
+    }
+    
+    .dv {
+        position: absolute;
+        top: 86.2%;
+        left: 35%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
+    }
+    
+    .Igual {
+        position: absolute;
+        width: 173px;
+        height: 59px;
+        background-color: #E67D42;
+        color: aliceblue;
+        border-radius: 30px 80px;
+        }
+    .Igual {
+        position: absolute;
+        top: 86.2%;
+        left: 67%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
+    }
+
+    .Básico {
+        width: 145px; /* Largura do quadrado */
+        height: 50px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 10px;
+        color: rgb(53, 51, 51);
+    }
+
+    .Básico {
+        position: absolute;
+        top: 27%;
+        left: 31%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
+    }
+    .Avançar {
+        width: 45px; /* Largura do quadrado */
+        height: 50px; /* Altura do quadrado */
+        background-color: #a6a6a6; /* Cor de fundo (opcional) */
+        border-radius: 10px;
+        color: rgb(53, 51, 51);
+    }
+
+    .Avançar {
+        position: absolute;
+        top: 27%;
+        left: 58%;
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 30px
+    }
     
