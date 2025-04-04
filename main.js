@@ -38,6 +38,23 @@ function Calcular() {
 }
 
 }
+function adicionarParent() {
+    const caixaTexto = document.getElementById("caixaTexto");
+    if (caixaTexto) {
+        // Captura o valor atual do campo de texto
+        const valorAtual = caixaTexto.value;
+        // Envolve o valor atual em parênteses
+        caixaTexto.value = `(${valorAtual})`;
+        aplicarEstilo(caixaTexto); // Aplica o estilo
+    }
+}
+
+
+
+
+  
+  // Exemplo de uso
+  
 
 //Seção de estilo da fonte
 
@@ -46,6 +63,7 @@ function aplicarEstilo(elemento) {
     elemento.style.color ="rgb(43, 41, 41)";
     elemento.style.fontFamily = "'Archivo Black', sans-serif";
     elemento.style.fontSize = "32px";
+    
     
 }
 
